@@ -1,4 +1,4 @@
-# Generative Art
+### some art & doodles 🤡
 
   ![hair](https://github.com/jenoodly/GenerativeArt/blob/master/images/hair.gif)
   ![singular_worm](https://github.com/jenoodly/GenerativeArt/blob/master/images/singular%20worm.gif) 
